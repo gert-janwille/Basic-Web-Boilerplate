@@ -5,13 +5,13 @@ Basic Web Boilerplate is a professional front-end template for building fast, ro
 ## Quick Start
 1. Clone this repo. To do so open Terminal make sure you're in the root folder (the root folder is marked as ~) copy the next command and past it in your Terminal window - `git clone https://github.com/gertjanwille/Basic-Web-Boilerplate.git`
 
-2. Give the script rights to execute - `chmod +x Basic-Web-Boilerplate/make.sh`
+2. Give the script rights to execute - `chmod +x ~/Basic-Web-Boilerplate/make.sh`
 
 3. Add an alias to your .bash_profile. To do so, open the file in a nano window. use `sudo nano .bash_profile`, Type your password and the window will open. Navigate white the down arrow to the bottom of the file.
 
 
 4. Copy next command and past it at the bottom of the .bash_profile - `alias makedev='~/Basic-Web-Boilerplate/make.sh'`
-You can change the makedev command to the command you want. This command will run the script. Close the window with ctrl + x then press y and finaly enter.
+You can change the makedev command to the command you want. This command will run the script. Close the window with `ctrl + x` then press `y` and finaly `enter`.
 
 ### usage
 
